@@ -233,24 +233,7 @@ Contributions are welcome! To contribute:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is available on [CodeAstro](https://codeastro.com). Please refer to the LICENSE file for more information.
-
-## 👨‍💻 Original Developer
-
-Developed by **Owonubi Job Sunday**
-
-For more projects, visit [CodeAstro](https://codeastro.com)
-
-## 📞 Support
-
-For issues, questions, or suggestions, please:
-- Open an issue on GitHub
-- Visit the project repository
-- Contact the developers
-
----
 
 **Last Updated**: 2026
 **Version**: 1.1 (Updated)
